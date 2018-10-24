@@ -1,0 +1,11 @@
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\bin\Debug\netcoreapp2.0\CodeShopWarehouse.deps.json
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\bin\Debug\netcoreapp2.0\CodeShopWarehouse.runtimeconfig.json
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\bin\Debug\netcoreapp2.0\CodeShopWarehouse.runtimeconfig.dev.json
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\bin\Debug\netcoreapp2.0\CodeShopWarehouse.dll
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\bin\Debug\netcoreapp2.0\CodeShopWarehouse.pdb
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\obj\Debug\netcoreapp2.0\CodeShopWarehouse.csproj.CoreCompileInputs.cache
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\obj\Debug\netcoreapp2.0\CodeShopWarehouse.AssemblyInfoInputs.cache
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\obj\Debug\netcoreapp2.0\CodeShopWarehouse.AssemblyInfo.cs
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\obj\Debug\netcoreapp2.0\CodeShopWarehouse.dll
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\obj\Debug\netcoreapp2.0\CodeShopWarehouse.pdb
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse\obj\Debug\netcoreapp2.0\CodeShopWarehouse.csprojResolveAssemblyReference.cache

@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\source\\bcw2018\\CodeShopWarehouse\\CodeShopWarehouse.Business\\CodeShopWarehouse.Business.csproj",
+    "projectName": "CodeShopWarehouse.Business",
+    "projectPath": "C:\\source\\bcw2018\\CodeShopWarehouse\\CodeShopWarehouse.Business\\CodeShopWarehouse.Business.csproj",
+    "outputPath": "C:\\source\\bcw2018\\CodeShopWarehouse\\CodeShopWarehouse.Business\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "C:\\source\\bcw2018\\CodeShopWarehouse\\CodeShopWarehouse.Data\\CodeShopWarehouse.Data.csproj": {
+            "projectPath": "C:\\source\\bcw2018\\CodeShopWarehouse\\CodeShopWarehouse.Data\\CodeShopWarehouse.Data.csproj"
+          },
+          "C:\\source\\bcw2018\\CodeShopWarehouse\\CodeShopWarehouse.Shared\\CodeShopWarehouse.Shared.csproj": {
+            "projectPath": "C:\\source\\bcw2018\\CodeShopWarehouse\\CodeShopWarehouse.Shared\\CodeShopWarehouse.Shared.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

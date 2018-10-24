@@ -1,0 +1,12 @@
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\bin\Debug\netcoreapp2.0\CodeShopWarehouse.Data.deps.json
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\bin\Debug\netcoreapp2.0\CodeShopWarehouse.Data.dll
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\bin\Debug\netcoreapp2.0\CodeShopWarehouse.Data.pdb
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\bin\Debug\netcoreapp2.0\CodeShopWarehouse.Shared.dll
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\bin\Debug\netcoreapp2.0\CodeShopWarehouse.Shared.pdb
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Data.csproj.CoreCompileInputs.cache
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Data.AssemblyInfoInputs.cache
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Data.AssemblyInfo.cs
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Data.csproj.CopyComplete
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Data.dll
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Data.pdb
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Data\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Data.csprojResolveAssemblyReference.cache
