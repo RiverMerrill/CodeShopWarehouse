@@ -1,7 +1,344 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9aa38812-9e28-4dc9-9a4b-3a33b55c7953" name="Default Changelist" comment="" />
+    <list default="true" id="9aa38812-9e28-4dc9-9a4b-3a33b55c7953" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/CodeShopWarehouse/v15/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/CodeShopWarehouse/v15/Server/sqlite3/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/CodeShopWarehouse/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/CodeShopWarehouse.Business.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/IOrdersService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/OrdersService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/CodeShopWarehouse.Business.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/CodeShopWarehouse.Business.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/CodeShopWarehouse.Business.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/CodeShopWarehouse.Data.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/IOrdersRepo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/Order.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/OrdersRepo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/CodeShopWarehouse.Data.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/CodeShopWarehouse.Data.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/CodeShopWarehouse.Data.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/CodeShopWarehouse.Entities.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/CodeShopWarehouse.Entities.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/CodeShopWarehouse.Entities.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/CodeShopWarehouse.Entities.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/CodeShopWarehouse.Shared.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/Interfaces/IOrder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/OrderTypeEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/CodeShopWarehouse.Shared.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/CodeShopWarehouse.Shared.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/CodeShopWarehouse.Shared.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/CodeShopWarehouse.Test.Unit.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Tests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/CodeShopWarehouse.Test.Unit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/CodeShopWarehouse.Test.Unit.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.abstractions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.assert.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.assert.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.assert.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.execution.desktop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.execution.desktop.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.execution.desktop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/packages.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/CodeShopWarehouse.Web.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/CodeShopWarehouse.Web.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersViewController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Data/CodeShopWarehouseWebContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Create.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Delete.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Details.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Edit.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.EntityFrameworkCore.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/CodeShopWarehouse.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/CodeShopWarehouse.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/bin/Debug/netcoreapp2.0/CodeShopWarehouse.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/bin/Debug/netcoreapp2.0/CodeShopWarehouse.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/bin/Debug/netcoreapp2.0/CodeShopWarehouse.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/bin/Debug/netcoreapp2.0/CodeShopWarehouse.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/bin/Debug/netcoreapp2.0/CodeShopWarehouse.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/CodeShopWarehouse.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/CodeShopWarehouse.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/CodeShopWarehouse.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Controllers/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Models/ErrorViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Home/About.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Home/Contact.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Home/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Shared/Error.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/_ViewImports.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/_ViewStart.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/WebApplication.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/bundleconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/obj/Debug/netcoreapp2.0/WebApplication.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/obj/Debug/netcoreapp2.0/WebApplication.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/obj/WebApplication.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/obj/WebApplication.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/obj/WebApplication.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/css/site.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/images/banner1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/images/banner2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/images/banner3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/images/banner4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/js/site.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation-unobtrusive/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/CHANGES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NOTICES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NUnit.3.5.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/NUnit.System.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.2.1.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.2.1.0/xunit.2.1.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/net35/xunit.abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/net35/xunit.abstractions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/portable-net45+win+wpa81+wp80+monotouch+monoandroid+Xamarin.iOS/xunit.abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/portable-net45+win+wpa81+wp80+monotouch+monoandroid+Xamarin.iOS/xunit.abstractions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/xunit.abstractions.2.0.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/dotnet/xunit.assert.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/dotnet/xunit.assert.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/dotnet/xunit.assert.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.assert.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.assert.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.assert.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/xunit.assert.2.1.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/_desktop/xunit.execution.desktop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/dnx451/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/monoandroid/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/monotouch/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/net45/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/portable-net45+win8+wp8+wpa81/xunit.core.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/win8/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/win81/xunit.core.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/wp8/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/wpa81/xunit.core.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/xamarinios/_._" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/xunit.core.2.1.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.dll.tdnet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.runner.tdnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.runner.utility.desktop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.dll.tdnet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.runner.tdnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.runner.utility.desktop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/xunit.extensibility.core.2.1.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dnx451/xunit.execution.dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dnx451/xunit.execution.dotnet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dnx451/xunit.execution.dotnet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dotnet/xunit.execution.dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dotnet/xunit.execution.dotnet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dotnet/xunit.execution.dotnet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monoandroid/xunit.execution.dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monoandroid/xunit.execution.dotnet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monoandroid/xunit.execution.dotnet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monotouch/xunit.execution.dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monotouch/xunit.execution.dotnet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monotouch/xunit.execution.dotnet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/net45/xunit.execution.desktop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/net45/xunit.execution.desktop.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/net45/xunit.execution.desktop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.execution.dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.execution.dotnet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.execution.dotnet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/win8/xunit.execution.dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/win8/xunit.execution.dotnet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/win8/xunit.execution.dotnet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wp8/xunit.execution.dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wp8/xunit.execution.dotnet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wp8/xunit.execution.dotnet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wpa81/xunit.execution.dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wpa81/xunit.execution.dotnet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wpa81/xunit.execution.dotnet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/xamarinios/xunit.execution.dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/xamarinios/xunit.execution.dotnet.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/xamarinios/xunit.execution.dotnet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/xunit.extensibility.execution.2.1.0.nupkg" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +349,7 @@
     <session id="-111061613">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -182,7 +519,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="395">
               <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
               <folding>
                 <marker date="1540421386772" expanded="true" signature="64:101" ph="@..." />
@@ -211,6 +548,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersViewController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -279,6 +619,7 @@
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -412,12 +753,12 @@
       <workItem from="1540330198733" duration="1330000" />
       <workItem from="1540338960310" duration="3701000" />
       <workItem from="1540357832124" duration="178000" />
-      <workItem from="1540417447636" duration="1407000" />
+      <workItem from="1540417447636" duration="1528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29299000" />
+    <option name="totallyTimeSpent" value="29420000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -430,26 +771,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22483222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22483222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.32850942" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.31259045" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.31259045" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39942113" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32929516" />
       <window_info anchor="bottom" id="NuGet" order="8" weight="0.32929516" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3299566" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.25110132" />
       <window_info anchor="bottom" id="REST Client" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="14" weight="0.10274964" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.18813314" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -700,7 +1040,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="395">
           <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
           <folding>
             <marker date="1540421386772" expanded="true" signature="64:101" ph="@..." />
