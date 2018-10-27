@@ -11,46 +11,28 @@ namespace CodeShopWarehouse.Data
     {
         public IOrder CreateOrder(IOrder data)
         {
-            return data;
+            var order = data;
+            data.Id = FakeDb.nextId;
+            data.CreatedAt = DateTimeOffset.Now;
+            FakeDb.nextId += 1;
+            FakeDb.Orders.Add(order);
+            return order;
         }
         public IOrder GetOrderById(int id)
         {
-            return new Order
-            {
-                Id = id,
-                Stock = 1,
-                ProductId = 22,
-                CreatedAt = DateTimeOffset.Now,
-                OrderType = OrderTypeEnum.Add
-            };
+            return FakeDb.Orders.Find(x => x.Id == id);
         }
 
         public IOrder UpdateOrder(int id)
         {
-            return new Order
-            {
-                Id = id,
-                ProductId = 1,
-                CreatedAt = DateTimeOffset.UtcNow.AddDays(-1),
-                FilledAt = DateTimeOffset.UtcNow,
-                OrderType = OrderTypeEnum.Add,
-                Stock = 200
-            };
+            var order = FakeDb.Orders.Find(x => x.Id == id);
+            order.FilledAt = DateTimeOffset.Now;
+            return order;
         }
 
         public IEnumerable<IOrder> GetUnProcessedOrders()
         {
-            List<Order> Orders = new List<Order>();
-            for (int i = 0; i < 20; i++)
-            {
-                var unprocessedOrder = new Order 
-                    { Id = i, ProductId = i + 100, CreatedAt = DateTimeOffset.Now, OrderType = OrderTypeEnum.Add, Stock = i };
-                var processedOrder = new Order
-                    { Id = i, ProductId = i + 100, CreatedAt = DateTimeOffset.Now, OrderType = OrderTypeEnum.Add, Stock = i, FilledAt = DateTimeOffset.Now};
-                Orders.Add(unprocessedOrder);
-                Orders.Add(processedOrder);
-            }
-            return Orders.Where(x => x.FilledAt == null);
+            return FakeDb.Orders.Where(x => x.FilledAt == null);
         }
         public IEnumerable<IOrder> GetOrdersByProductId(int id)
         {

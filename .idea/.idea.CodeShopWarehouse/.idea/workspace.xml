@@ -2,342 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aa38812-9e28-4dc9-9a4b-3a33b55c7953" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/CodeShopWarehouse/v15/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/CodeShopWarehouse/v15/Server/sqlite3/db.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/CodeShopWarehouse/v15/Server/sqlite3/storage.ide" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/CodeShopWarehouse.Business.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/IOrdersService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/OrdersService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/CodeShopWarehouse.Business.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/CodeShopWarehouse.Business.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/CodeShopWarehouse.Business.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/CodeShopWarehouse.Data.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/IOrdersRepo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/Order.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/OrdersRepo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/CodeShopWarehouse.Data.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/CodeShopWarehouse.Data.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/CodeShopWarehouse.Data.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/CodeShopWarehouse.Entities.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/CodeShopWarehouse.Entities.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/CodeShopWarehouse.Entities.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/CodeShopWarehouse.Entities.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Entities.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Entities/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/CodeShopWarehouse.Shared.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/Interfaces/IOrder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/OrderTypeEnum.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/CodeShopWarehouse.Shared.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/CodeShopWarehouse.Shared.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/CodeShopWarehouse.Shared.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Shared/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/CodeShopWarehouse.Test.Unit.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Tests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/CodeShopWarehouse.Test.Unit.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/CodeShopWarehouse.Test.Unit.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.abstractions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.assert.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.assert.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.assert.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.core.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.execution.desktop.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.execution.desktop.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/bin/Debug/xunit.execution.desktop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/CodeShopWarehouse.Test.Unit.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/CodeShopWarehouse.Web.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/CodeShopWarehouse.Web.csproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersViewController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Data/CodeShopWarehouseWebContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Create.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Delete.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Details.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Edit.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.EntityFrameworkCore.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/CodeShopWarehouse.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/CodeShopWarehouse.csproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/bin/Debug/netcoreapp2.0/CodeShopWarehouse.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/bin/Debug/netcoreapp2.0/CodeShopWarehouse.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/bin/Debug/netcoreapp2.0/CodeShopWarehouse.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/bin/Debug/netcoreapp2.0/CodeShopWarehouse.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/bin/Debug/netcoreapp2.0/CodeShopWarehouse.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/CodeShopWarehouse.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/CodeShopWarehouse.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/CodeShopWarehouse.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Controllers/HomeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Models/ErrorViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Home/About.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Home/Contact.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Home/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Shared/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Views/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/Views/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/WebApplication.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/bundleconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/obj/Debug/netcoreapp2.0/WebApplication.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/obj/Debug/netcoreapp2.0/WebApplication.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/obj/WebApplication.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/obj/WebApplication.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/obj/WebApplication.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/css/site.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/images/banner1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/images/banner2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/images/banner3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/images/banner4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/js/site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/js/site.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/bootstrap/dist/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation-unobtrusive/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/CHANGES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NOTICES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NUnit.3.5.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/NUnit.System.Linq.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.2.1.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.2.1.0/xunit.2.1.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/net35/xunit.abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/net35/xunit.abstractions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/portable-net45+win+wpa81+wp80+monotouch+monoandroid+Xamarin.iOS/xunit.abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/lib/portable-net45+win+wpa81+wp80+monotouch+monoandroid+Xamarin.iOS/xunit.abstractions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.abstractions.2.0.0/xunit.abstractions.2.0.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/dotnet/xunit.assert.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/dotnet/xunit.assert.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/dotnet/xunit.assert.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.assert.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.assert.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.assert.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.assert.2.1.0/xunit.assert.2.1.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/_desktop/xunit.execution.desktop.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/dnx451/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/monoandroid/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/monotouch/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/net45/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/portable-net45+win8+wp8+wpa81/xunit.core.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/win8/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/win81/xunit.core.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/wp8/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/wpa81/xunit.core.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/xamarinios/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.core.2.1.0/xunit.core.2.1.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.dll.tdnet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.runner.tdnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/dotnet/xunit.runner.utility.desktop.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.dll.tdnet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.runner.tdnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.runner.utility.desktop.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.core.2.1.0/xunit.extensibility.core.2.1.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dnx451/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dnx451/xunit.execution.dotnet.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dnx451/xunit.execution.dotnet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dotnet/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dotnet/xunit.execution.dotnet.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/dotnet/xunit.execution.dotnet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monoandroid/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monoandroid/xunit.execution.dotnet.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monoandroid/xunit.execution.dotnet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monotouch/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monotouch/xunit.execution.dotnet.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/monotouch/xunit.execution.dotnet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/net45/xunit.execution.desktop.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/net45/xunit.execution.desktop.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/net45/xunit.execution.desktop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.execution.dotnet.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/portable-net45+win8+wp8+wpa81/xunit.execution.dotnet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/win8/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/win8/xunit.execution.dotnet.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/win8/xunit.execution.dotnet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wp8/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wp8/xunit.execution.dotnet.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wp8/xunit.execution.dotnet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wpa81/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wpa81/xunit.execution.dotnet.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/wpa81/xunit.execution.dotnet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/xamarinios/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/xamarinios/xunit.execution.dotnet.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/lib/xamarinios/xunit.execution.dotnet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/xunit.extensibility.execution.2.1.0/xunit.extensibility.execution.2.1.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Controllers/OrdersController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Create.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Details.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/FakeDb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeShopWarehouse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CodeShopWarehouse/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CodeShopWarehouse/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CodeShopWarehouse/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CodeShopWarehouse/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.Business/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Business.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Data/OrdersRepo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/OrdersRepo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.Data/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Tests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/CodeShopWarehouse.Web.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/CodeShopWarehouse.Web.csproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersViewController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Data/CodeShopWarehouseWebContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Create.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Delete.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Details.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Edit.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Business.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Data.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Shared.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.EntityFrameworkCore.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/CodeShopWarehouse.Web.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/Debug/netcoreapp2.0/CodeShopWarehouse.Web.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.Web/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse/obj/CodeShopWarehouse.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/CodeShopWarehouse.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse/obj/CodeShopWarehouse.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/CodeShopWarehouse.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/Debug/netcoreapp2.0/CodeShopWarehouse.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeShopWarehouse/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CodeShopWarehouse/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -349,46 +79,47 @@
     <session id="-111061613">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="27" />
-          <entry key="cshtml" value="7" />
+          <entry key="cs" value="38" />
+          <entry key="cshtml" value="10" />
           <entry key="csproj" value="3" />
           <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="27" />
+          <entry key="C#" value="38" />
           <entry key="Csproj" value="3" />
           <entry key="JSON" value="1" />
-          <entry key="Razor" value="7" />
+          <entry key="Razor" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="11429" />
-          <entry key="cshtml" value="564" />
+          <entry key="cs" value="14415" />
+          <entry key="cshtml" value="2401" />
           <entry key="csproj" value="125" />
           <entry key="json" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="11429" />
+          <entry key="C#" value="14415" />
           <entry key="Csproj" value="125" />
           <entry key="JSON" value="20" />
-          <entry key="Razor" value="564" />
+          <entry key="Razor" value="2401" />
         </counts>
       </usages-collector>
     </session>
@@ -396,152 +127,201 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Startup.cs">
+        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="46">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
               <folding>
-                <marker date="1540314223139" expanded="false" signature="6:508" ph="..." />
-                <marker date="1540314223139" expanded="true" signature="568:1825" ph="{...}" />
-                <marker date="1540314223139" expanded="true" signature="627:690" ph="{...}" />
-                <marker date="1540314223139" expanded="true" signature="913:1278" ph="{...}" />
-                <marker date="1540314223139" expanded="true" signature="1466:1819" ph="{...}" />
-                <marker date="1540314223139" expanded="true" signature="1513:1590" ph="{...}" />
-                <marker date="1540314223139" expanded="true" signature="1618:1807" ph="{...}" />
+                <marker date="1540513325005" expanded="false" signature="6:194" ph="..." />
+                <marker date="1540513325005" expanded="true" signature="290:1037" ph="{...}" />
+                <marker date="1540513325005" expanded="true" signature="333:380" ph="{...}" />
+                <marker date="1540513325005" expanded="true" signature="418:538" ph="{...}" />
+                <marker date="1540513325005" expanded="true" signature="578:682" ph="{...}" />
+                <marker date="1540513325005" expanded="true" signature="722:769" ph="{...}" />
+                <marker date="1540513325005" expanded="true" signature="900:1031" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/appsettings.json">
+        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Controllers/OrdersController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersViewController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            <state relative-caret-position="230">
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
-                <marker date="1540341479831" expanded="false" signature="6:350" ph="..." />
-                <marker date="1540341479831" expanded="true" signature="395:2434" ph="{...}" />
-                <marker date="1540341479831" expanded="true" signature="448:2432" ph="{...}" />
-                <marker date="1540341479831" expanded="true" signature="577:641" ph="{...}" />
-                <marker date="1540341479831" expanded="true" signature="715:799" ph="{...}" />
-                <marker date="1540341479831" expanded="true" signature="891:1095" ph="{...}" />
-                <marker date="1540341479831" expanded="true" signature="989:1052" ph="{...}" />
-                <marker date="1540341479831" expanded="true" signature="1165:1212" ph="{...}" />
-                <marker date="1540341479831" expanded="true" signature="1222:1432" ph="/* POST: Orders1/Create ... */" />
-                <marker date="1540341479831" expanded="true" signature="1605:1685" ph="{...}" />
-                <marker date="1540341479831" expanded="true" signature="1771:1973" ph="{...}" />
-                <marker date="1540341479831" expanded="true" signature="1868:1931" ph="{...}" />
-                <marker date="1540341479831" expanded="true" signature="1983:2426" ph="/* POST: Orders1/Edit/5 ... */" />
+                <marker date="1540517264656" expanded="false" signature="6:196" ph="..." />
+                <marker date="1540517264656" expanded="true" signature="245:1264" ph="{...}" />
+                <marker date="1540517264656" expanded="true" signature="294:1262" ph="{...}" />
+                <marker date="1540517264656" expanded="true" signature="418:482" ph="{...}" />
+                <marker date="1540517264656" expanded="true" signature="534:618" ph="{...}" />
+                <marker date="1540517264656" expanded="true" signature="657:704" ph="{...}" />
+                <marker date="1540517264656" expanded="true" signature="750:859" ph="{...}" />
+                <marker date="1540517264656" expanded="true" signature="937:1051" ph="{...}" />
+                <marker date="1540517264656" expanded="true" signature="1143:1248" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Edit.cshtml">
+        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Details.cshtml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding>
-                <marker date="1540339978426" expanded="true" signature="52:88" ph="@..." />
-                <marker date="1540339978426" expanded="true" signature="127:1882" ph="&lt;div.../&gt;" />
-                <marker date="1540339978426" expanded="true" signature="149:1875" ph="&lt;div.../&gt;" />
-                <marker date="1540339978426" expanded="true" signature="180:1864" ph="&lt;form.../&gt;" />
-                <marker date="1540339978426" expanded="true" signature="345:610" ph="&lt;div.../&gt;" />
-                <marker date="1540339978426" expanded="true" signature="623:876" ph="&lt;div.../&gt;" />
-                <marker date="1540339978426" expanded="true" signature="889:1162" ph="&lt;div.../&gt;" />
-                <marker date="1540339978426" expanded="true" signature="1175:1440" ph="&lt;div.../&gt;" />
-                <marker date="1540339978426" expanded="true" signature="1453:1715" ph="&lt;div.../&gt;" />
-                <marker date="1540339978426" expanded="true" signature="1728:1848" ph="&lt;div.../&gt;" />
-                <marker date="1540339978426" expanded="true" signature="1884:1939" ph="&lt;div.../&gt;" />
-                <marker date="1540339978426" expanded="true" signature="1941:2028" ph="@{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Create.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-373">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-              <folding>
-                <marker date="1540421149637" expanded="true" signature="51:89" ph="@..." />
-                <marker date="1540421149637" expanded="true" signature="130:1434" ph="&lt;div.../&gt;" />
-                <marker date="1540421149637" expanded="true" signature="152:1427" ph="&lt;div.../&gt;" />
-                <marker date="1540421149637" expanded="true" signature="183:1416" ph="&lt;form.../&gt;" />
-                <marker date="1540421149637" expanded="true" signature="301:576" ph="&lt;div.../&gt;" />
-                <marker date="1540421149637" expanded="true" signature="589:846" ph="&lt;div.../&gt;" />
-                <marker date="1540421149637" expanded="true" signature="859:1265" ph="&lt;div.../&gt;" />
-                <marker date="1540421149637" expanded="true" signature="978:1165" ph="&lt;select.../&gt;" />
-                <marker date="1540421149637" expanded="true" signature="1278:1400" ph="&lt;div.../&gt;" />
-                <marker date="1540421149637" expanded="true" signature="1436:1495" ph="&lt;div.../&gt;" />
-                <marker date="1540421149637" expanded="true" signature="1497:1584" ph="@{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Details.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <marker date="1540339708959" expanded="true" signature="51:90" ph="@..." />
-                <marker date="1540339708959" expanded="true" signature="110:1023" ph="&lt;div.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="150:1016" ph="&lt;dl.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="185:262" ph="&lt;dt.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="271:344" ph="&lt;dd.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="353:426" ph="&lt;dt.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="435:504" ph="&lt;dd.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="513:590" ph="&lt;dt.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="599:672" ph="&lt;dd.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="681:758" ph="&lt;dt.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="767:840" ph="&lt;dd.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="849:925" ph="&lt;dt.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="934:1006" ph="&lt;dd.../&gt;" />
-                <marker date="1540339708959" expanded="true" signature="1024:1140" ph="&lt;div.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="51:108" ph="@..." />
+                <marker date="1540517358385" expanded="true" signature="110:855" ph="&lt;div.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="150:848" ph="&lt;dl.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="185:262" ph="&lt;dt.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="271:344" ph="&lt;dd.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="353:426" ph="&lt;dt.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="435:504" ph="&lt;dd.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="513:590" ph="&lt;dt.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="599:672" ph="&lt;dd.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="681:757" ph="&lt;dt.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="766:838" ph="&lt;dd.../&gt;" />
+                <marker date="1540517358385" expanded="true" signature="856:911" ph="&lt;div.../&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Index.cshtml">
+        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Tests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+            <state relative-caret-position="207">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
               <folding>
-                <marker date="1540421386772" expanded="true" signature="64:101" ph="@..." />
-                <marker date="1540421386772" expanded="true" signature="119:169" ph="&lt;p.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="170:1491" ph="&lt;table.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="196:810" ph="&lt;thead.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="212:797" ph="&lt;tr.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="233:326" ph="&lt;th.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="343:432" ph="&lt;th.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="449:542" ph="&lt;th.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="559:652" ph="&lt;th.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="669:761" ph="&lt;th.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="815:1482" ph="&lt;tbody.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="823:1469" ph="@..." />
-                <marker date="1540421386772" expanded="true" signature="852:1469" ph="{...}" />
-                <marker date="1540421386772" expanded="true" signature="862:1467" ph="&lt;tr.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="879:963" ph="&lt;td.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="976:1056" ph="&lt;td.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="1069:1153" ph="&lt;td.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="1166:1250" ph="&lt;td.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="1263:1346" ph="&lt;td.../&gt;" />
-                <marker date="1540421386772" expanded="true" signature="1359:1453" ph="&lt;td.../&gt;" />
+                <marker date="1540517432025" expanded="false" signature="6:26" ph="..." />
+                <marker date="1540517432025" expanded="true" signature="65:468" ph="{...}" />
+                <marker date="1540517432025" expanded="true" signature="90:466" ph="{...}" />
+                <marker date="1540517432025" expanded="true" signature="172:205" ph="{...}" />
+                <marker date="1540517432025" expanded="true" signature="290:332" ph="{...}" />
+                <marker date="1540517432025" expanded="true" signature="418:460" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Create.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <folding>
+                <marker date="1540516112024" expanded="true" signature="36:93" ph="@..." />
+                <marker date="1540516112024" expanded="true" signature="117:1475" ph="&lt;div.../&gt;" />
+                <marker date="1540516112024" expanded="true" signature="139:1468" ph="&lt;div.../&gt;" />
+                <marker date="1540516112024" expanded="true" signature="170:1457" ph="&lt;form.../&gt;" />
+                <marker date="1540516112024" expanded="true" signature="316:590" ph="&lt;div.../&gt;" />
+                <marker date="1540516112024" expanded="true" signature="603:860" ph="&lt;div.../&gt;" />
+                <marker date="1540516112024" expanded="true" signature="873:1307" ph="&lt;div.../&gt;" />
+                <marker date="1540516112024" expanded="true" signature="1007:1207" ph="&lt;select.../&gt;" />
+                <marker date="1540516112024" expanded="true" signature="1320:1441" ph="&lt;div.../&gt;" />
+                <marker date="1540516112024" expanded="true" signature="1477:1556" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Business/OrdersService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+              <folding>
+                <marker date="1540254831053" expanded="false" signature="6:157" ph="..." />
+                <marker date="1540254831053" expanded="true" signature="195:1026" ph="{...}" />
+                <marker date="1540254831053" expanded="true" signature="245:1024" ph="{...}" />
+                <marker date="1540254831053" expanded="true" signature="344:402" ph="{...}" />
+                <marker date="1540254831053" expanded="true" signature="451:522" ph="{...}" />
+                <marker date="1540254831053" expanded="true" signature="565:634" ph="{...}" />
+                <marker date="1540254831053" expanded="true" signature="698:775" ph="{...}" />
+                <marker date="1540254831053" expanded="true" signature="817:885" ph="{...}" />
+                <marker date="1540254831053" expanded="true" signature="943:1018" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding>
+                <marker date="1540515114026" expanded="true" signature="63:113" ph="&lt;p.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="140:536" ph="&lt;thead.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="152:523" ph="&lt;tr.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="165:242" ph="&lt;th.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="251:324" ph="&lt;th.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="333:410" ph="&lt;th.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="419:495" ph="&lt;th.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="541:1342" ph="&lt;tbody.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="553:1329" ph="@..." />
+                <marker date="1540515114026" expanded="true" signature="581:1329" ph="{...}" />
+                <marker date="1540515114026" expanded="true" signature="596:1323" ph="&lt;tr.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="613:697" ph="&lt;td.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="710:793" ph="&lt;td.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="810:890" ph="&lt;td.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="903:987" ph="&lt;td.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="1000:1309" ph="&lt;td.../&gt;" />
+                <marker date="1540515114026" expanded="true" signature="1021:1291" ph="@..." />
+                <marker date="1540515114026" expanded="true" signature="1093:1291" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Data/FakeDb.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <marker date="1540515809045" expanded="true" signature="6:90" ph="..." />
+                <marker date="1540515809045" expanded="true" signature="150:1431" ph="{...}" />
+                <marker date="1540515809045" expanded="true" signature="264:1424" ph="{...}" />
+                <marker date="1540515809045" expanded="true" signature="302:493" ph="{...}" />
+                <marker date="1540515809045" expanded="true" signature="531:723" ph="{...}" />
+                <marker date="1540515809045" expanded="true" signature="761:953" ph="{...}" />
+                <marker date="1540515809045" expanded="true" signature="991:1183" ph="{...}" />
+                <marker date="1540515809045" expanded="true" signature="1221:1413" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Data/OrdersRepo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <marker date="1540517264680" expanded="false" signature="6:176" ph="..." />
+                <marker date="1540517264680" expanded="true" signature="210:1701" ph="{...}" />
+                <marker date="1540517264680" expanded="true" signature="253:1699" ph="{...}" />
+                <marker date="1540517264680" expanded="true" signature="306:538" ph="{...}" />
+                <marker date="1540517264680" expanded="true" signature="581:657" ph="{...}" />
+                <marker date="1540517264680" expanded="true" signature="700:856" ph="{...}" />
+                <marker date="1540517264680" expanded="true" signature="915:1000" ph="{...}" />
+                <marker date="1540517264680" expanded="true" signature="1064:1693" ph="{...}" />
+                <marker date="1540517264680" expanded="true" signature="1167:1656" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <marker date="1540513325019" expanded="true" signature="6:255" ph="..." />
+                <marker date="1540513325019" expanded="true" signature="319:617" ph="{...}" />
+                <marker date="1540513325019" expanded="true" signature="372:446" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -553,23 +333,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersViewController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Data/FakeDb.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Shared/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Business/IOrdersService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Business/OrdersService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Entities/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Controllers/OrdersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Shared/Interfaces/IOrder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication/Controllers/HomeController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Shared/OrderTypeEnum.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Data/CodeShopWarehouseWebContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Data/OrdersRepo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Data/Order.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeShopWarehouse.Data/IOrdersRepo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -593,10 +372,7 @@
         <option value="$PROJECT_DIR$/CodeShopWarehouse.Business/IOrdersService.cs" />
         <option value="$PROJECT_DIR$/CodeShopWarehouse.Business/OrdersService.cs" />
         <option value="$PROJECT_DIR$/CodeShopWarehouse.Data/IOrdersRepo.cs" />
-        <option value="$PROJECT_DIR$/CodeShopWarehouse.Data/OrdersRepo.cs" />
         <option value="$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersController.cs" />
-        <option value="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Tests.cs" />
-        <option value="$PROJECT_DIR$/CodeShopWarehouse.Web/Startup.cs" />
         <option value="$PROJECT_DIR$/CodeShopWarehouse.Web/appsettings.json" />
         <option value="$PROJECT_DIR$/CodeShopWarehouse.Web/CodeShopWarehouse.Web.csproj" />
         <option value="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Details.cshtml" />
@@ -604,6 +380,16 @@
         <option value="$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersViewController.cs" />
         <option value="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Create.cshtml" />
         <option value="$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Index.cshtml" />
+        <option value="$PROJECT_DIR$/CodeShopWarehouse.Web/Startup.cs" />
+        <option value="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Pages/Orders/Index.cshtml" />
+        <option value="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Startup.cs" />
+        <option value="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Index.cshtml" />
+        <option value="$PROJECT_DIR$/CodeShopWarehouse.Data/FakeDb.cs" />
+        <option value="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Create.cshtml" />
+        <option value="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Controllers/OrdersController.cs" />
+        <option value="$PROJECT_DIR$/CodeShopWarehouse.Data/OrdersRepo.cs" />
+        <option value="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Details.cshtml" />
+        <option value="$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Tests.cs" />
       </list>
     </option>
   </component>
@@ -636,20 +422,7 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="CodeShopWarehouse" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CodeShopWarehouse.Web" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CodeShopWarehouse" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CodeShopWarehouse.Web" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CodeShopWarehouse" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CodeShopWarehouse.Web" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="OrdersView" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CodeShopWarehouse.Test.Unit" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -681,7 +454,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.CodeShopWarehouse.Web">
+  <component name="RunManager" selected=".NET Project.CodeShopWarehouse.CoolWeb">
+    <configuration name="CodeShopWarehouse.CoolWeb" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/bin/Debug/netcoreapp2.1/CodeShopWarehouse.CoolWeb.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/CodeShopWarehouse.CoolWeb.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CodeShopWarehouse.Web" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/CodeShopWarehouse.Web/bin/Debug/netcoreapp2.0/CodeShopWarehouse.Web.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -726,9 +517,11 @@
     <list>
       <item itemvalue=".NET Project.Default" />
       <item itemvalue=".NET Project.CodeShopWarehouse.Web" />
+      <item itemvalue=".NET Project.CodeShopWarehouse.CoolWeb" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.CodeShopWarehouse.CoolWeb" />
         <item itemvalue=".NET Project.CodeShopWarehouse.Web" />
       </list>
     </recent_temporary>
@@ -754,11 +547,15 @@
       <workItem from="1540338960310" duration="3701000" />
       <workItem from="1540357832124" duration="178000" />
       <workItem from="1540417447636" duration="1528000" />
+      <workItem from="1540512725299" duration="119000" />
+      <workItem from="1540512927736" duration="341000" />
+      <workItem from="1540513300316" duration="2882000" />
+      <workItem from="1540516849742" duration="1164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29420000" />
+    <option name="totallyTimeSpent" value="33926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -771,8 +568,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22483222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23825504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.32850942" />
@@ -785,7 +583,7 @@
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32929516" />
       <window_info anchor="bottom" id="NuGet" order="8" weight="0.32929516" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3299566" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.24457309" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.25110132" />
       <window_info anchor="bottom" id="REST Client" order="13" />
@@ -849,13 +647,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebApplication1/OrdersController.cs" />
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Program.cs" />
     <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Entities/Class1.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -870,20 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Data/OrdersRepo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Business/OrdersService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Business/IOrdersService.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -891,29 +669,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Data/CodeShopWarehouseWebContext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersController.cs" />
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Data/CodeShopWarehouseWebContext.cs" />
     <entry file="file://$PROJECT_DIR$/CodeShopWarehouse/CodeShopWarehouse.csproj">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Tests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Data/IOrdersRepo.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -922,147 +681,210 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/CodeShopWarehouse.Web.csproj">
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/CodeShopWarehouse.Web.csproj" />
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersViewController.cs" />
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Edit.cshtml" />
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Create.cshtml" />
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Details.cshtml" />
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/appsettings.json" />
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/HomeController.cs" />
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
+        <state relative-caret-position="552">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+          <folding>
+            <marker date="1540514825211" expanded="false" signature="6:468" ph="..." />
+            <marker date="1540514825211" expanded="true" signature="532:2236" ph="{...}" />
+            <marker date="1540514825211" expanded="true" signature="591:654" ph="{...}" />
+            <marker date="1540514825211" expanded="true" signature="877:1460" ph="{...}" />
+            <marker date="1540514825211" expanded="true" signature="950:1227" ph="{...}" />
+            <marker date="1540514825211" expanded="true" signature="1648:2230" ph="{...}" />
+            <marker date="1540514825211" expanded="true" signature="1695:1772" ph="{...}" />
+            <marker date="1540514825211" expanded="true" signature="1789:1904" ph="{...}" />
+            <marker date="1540514825211" expanded="true" signature="2047:2218" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Startup.cs">
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <marker date="1540513325005" expanded="false" signature="6:194" ph="..." />
+            <marker date="1540513325005" expanded="true" signature="290:1037" ph="{...}" />
+            <marker date="1540513325005" expanded="true" signature="333:380" ph="{...}" />
+            <marker date="1540513325005" expanded="true" signature="418:538" ph="{...}" />
+            <marker date="1540513325005" expanded="true" signature="578:682" ph="{...}" />
+            <marker date="1540513325005" expanded="true" signature="722:769" ph="{...}" />
+            <marker date="1540513325005" expanded="true" signature="900:1031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <marker date="1540515114026" expanded="true" signature="63:113" ph="&lt;p.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="140:536" ph="&lt;thead.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="152:523" ph="&lt;tr.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="165:242" ph="&lt;th.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="251:324" ph="&lt;th.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="333:410" ph="&lt;th.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="419:495" ph="&lt;th.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="541:1342" ph="&lt;tbody.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="553:1329" ph="@..." />
+            <marker date="1540515114026" expanded="true" signature="581:1329" ph="{...}" />
+            <marker date="1540515114026" expanded="true" signature="596:1323" ph="&lt;tr.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="613:697" ph="&lt;td.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="710:793" ph="&lt;td.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="810:890" ph="&lt;td.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="903:987" ph="&lt;td.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="1000:1309" ph="&lt;td.../&gt;" />
+            <marker date="1540515114026" expanded="true" signature="1021:1291" ph="@..." />
+            <marker date="1540515114026" expanded="true" signature="1093:1291" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Data/FakeDb.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
-            <marker date="1540314223139" expanded="false" signature="6:508" ph="..." />
-            <marker date="1540314223139" expanded="true" signature="568:1825" ph="{...}" />
-            <marker date="1540314223139" expanded="true" signature="627:690" ph="{...}" />
-            <marker date="1540314223139" expanded="true" signature="913:1278" ph="{...}" />
-            <marker date="1540314223139" expanded="true" signature="1466:1819" ph="{...}" />
-            <marker date="1540314223139" expanded="true" signature="1513:1590" ph="{...}" />
-            <marker date="1540314223139" expanded="true" signature="1618:1807" ph="{...}" />
+            <marker date="1540515809045" expanded="true" signature="6:90" ph="..." />
+            <marker date="1540515809045" expanded="true" signature="150:1431" ph="{...}" />
+            <marker date="1540515809045" expanded="true" signature="264:1424" ph="{...}" />
+            <marker date="1540515809045" expanded="true" signature="302:493" ph="{...}" />
+            <marker date="1540515809045" expanded="true" signature="531:723" ph="{...}" />
+            <marker date="1540515809045" expanded="true" signature="761:953" ph="{...}" />
+            <marker date="1540515809045" expanded="true" signature="991:1183" ph="{...}" />
+            <marker date="1540515809045" expanded="true" signature="1221:1413" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/appsettings.json">
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Create.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-373">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="483">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
           <folding>
-            <marker date="1540421149637" expanded="true" signature="51:89" ph="@..." />
-            <marker date="1540421149637" expanded="true" signature="130:1434" ph="&lt;div.../&gt;" />
-            <marker date="1540421149637" expanded="true" signature="152:1427" ph="&lt;div.../&gt;" />
-            <marker date="1540421149637" expanded="true" signature="183:1416" ph="&lt;form.../&gt;" />
-            <marker date="1540421149637" expanded="true" signature="301:576" ph="&lt;div.../&gt;" />
-            <marker date="1540421149637" expanded="true" signature="589:846" ph="&lt;div.../&gt;" />
-            <marker date="1540421149637" expanded="true" signature="859:1265" ph="&lt;div.../&gt;" />
-            <marker date="1540421149637" expanded="true" signature="978:1165" ph="&lt;select.../&gt;" />
-            <marker date="1540421149637" expanded="true" signature="1278:1400" ph="&lt;div.../&gt;" />
-            <marker date="1540421149637" expanded="true" signature="1436:1495" ph="&lt;div.../&gt;" />
-            <marker date="1540421149637" expanded="true" signature="1497:1584" ph="@{...}" />
+            <marker date="1540513325019" expanded="true" signature="6:255" ph="..." />
+            <marker date="1540513325019" expanded="true" signature="319:617" ph="{...}" />
+            <marker date="1540513325019" expanded="true" signature="372:446" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Controllers/OrdersViewController.cs">
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Create.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        <state relative-caret-position="46">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding>
-            <marker date="1540341479831" expanded="false" signature="6:350" ph="..." />
-            <marker date="1540341479831" expanded="true" signature="395:2434" ph="{...}" />
-            <marker date="1540341479831" expanded="true" signature="448:2432" ph="{...}" />
-            <marker date="1540341479831" expanded="true" signature="577:641" ph="{...}" />
-            <marker date="1540341479831" expanded="true" signature="715:799" ph="{...}" />
-            <marker date="1540341479831" expanded="true" signature="891:1095" ph="{...}" />
-            <marker date="1540341479831" expanded="true" signature="989:1052" ph="{...}" />
-            <marker date="1540341479831" expanded="true" signature="1165:1212" ph="{...}" />
-            <marker date="1540341479831" expanded="true" signature="1222:1432" ph="/* POST: Orders1/Create ... */" />
-            <marker date="1540341479831" expanded="true" signature="1605:1685" ph="{...}" />
-            <marker date="1540341479831" expanded="true" signature="1771:1973" ph="{...}" />
-            <marker date="1540341479831" expanded="true" signature="1868:1931" ph="{...}" />
-            <marker date="1540341479831" expanded="true" signature="1983:2426" ph="/* POST: Orders1/Edit/5 ... */" />
+            <marker date="1540516112024" expanded="true" signature="36:93" ph="@..." />
+            <marker date="1540516112024" expanded="true" signature="117:1475" ph="&lt;div.../&gt;" />
+            <marker date="1540516112024" expanded="true" signature="139:1468" ph="&lt;div.../&gt;" />
+            <marker date="1540516112024" expanded="true" signature="170:1457" ph="&lt;form.../&gt;" />
+            <marker date="1540516112024" expanded="true" signature="316:590" ph="&lt;div.../&gt;" />
+            <marker date="1540516112024" expanded="true" signature="603:860" ph="&lt;div.../&gt;" />
+            <marker date="1540516112024" expanded="true" signature="873:1307" ph="&lt;div.../&gt;" />
+            <marker date="1540516112024" expanded="true" signature="1007:1207" ph="&lt;select.../&gt;" />
+            <marker date="1540516112024" expanded="true" signature="1320:1441" ph="&lt;div.../&gt;" />
+            <marker date="1540516112024" expanded="true" signature="1477:1556" ph="&lt;div.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Edit.cshtml">
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Controllers/OrdersController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <marker date="1540517264656" expanded="false" signature="6:196" ph="..." />
+            <marker date="1540517264656" expanded="true" signature="245:1264" ph="{...}" />
+            <marker date="1540517264656" expanded="true" signature="294:1262" ph="{...}" />
+            <marker date="1540517264656" expanded="true" signature="418:482" ph="{...}" />
+            <marker date="1540517264656" expanded="true" signature="534:618" ph="{...}" />
+            <marker date="1540517264656" expanded="true" signature="657:704" ph="{...}" />
+            <marker date="1540517264656" expanded="true" signature="750:859" ph="{...}" />
+            <marker date="1540517264656" expanded="true" signature="937:1051" ph="{...}" />
+            <marker date="1540517264656" expanded="true" signature="1143:1248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Business/OrdersService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <marker date="1540254831053" expanded="false" signature="6:157" ph="..." />
+            <marker date="1540254831053" expanded="true" signature="195:1026" ph="{...}" />
+            <marker date="1540254831053" expanded="true" signature="245:1024" ph="{...}" />
+            <marker date="1540254831053" expanded="true" signature="344:402" ph="{...}" />
+            <marker date="1540254831053" expanded="true" signature="451:522" ph="{...}" />
+            <marker date="1540254831053" expanded="true" signature="565:634" ph="{...}" />
+            <marker date="1540254831053" expanded="true" signature="698:775" ph="{...}" />
+            <marker date="1540254831053" expanded="true" signature="817:885" ph="{...}" />
+            <marker date="1540254831053" expanded="true" signature="943:1018" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Data/OrdersRepo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
-            <marker date="1540339978426" expanded="true" signature="52:88" ph="@..." />
-            <marker date="1540339978426" expanded="true" signature="127:1882" ph="&lt;div.../&gt;" />
-            <marker date="1540339978426" expanded="true" signature="149:1875" ph="&lt;div.../&gt;" />
-            <marker date="1540339978426" expanded="true" signature="180:1864" ph="&lt;form.../&gt;" />
-            <marker date="1540339978426" expanded="true" signature="345:610" ph="&lt;div.../&gt;" />
-            <marker date="1540339978426" expanded="true" signature="623:876" ph="&lt;div.../&gt;" />
-            <marker date="1540339978426" expanded="true" signature="889:1162" ph="&lt;div.../&gt;" />
-            <marker date="1540339978426" expanded="true" signature="1175:1440" ph="&lt;div.../&gt;" />
-            <marker date="1540339978426" expanded="true" signature="1453:1715" ph="&lt;div.../&gt;" />
-            <marker date="1540339978426" expanded="true" signature="1728:1848" ph="&lt;div.../&gt;" />
-            <marker date="1540339978426" expanded="true" signature="1884:1939" ph="&lt;div.../&gt;" />
-            <marker date="1540339978426" expanded="true" signature="1941:2028" ph="@{...}" />
+            <marker date="1540517264680" expanded="false" signature="6:176" ph="..." />
+            <marker date="1540517264680" expanded="true" signature="210:1701" ph="{...}" />
+            <marker date="1540517264680" expanded="true" signature="253:1699" ph="{...}" />
+            <marker date="1540517264680" expanded="true" signature="306:538" ph="{...}" />
+            <marker date="1540517264680" expanded="true" signature="581:657" ph="{...}" />
+            <marker date="1540517264680" expanded="true" signature="700:856" ph="{...}" />
+            <marker date="1540517264680" expanded="true" signature="915:1000" ph="{...}" />
+            <marker date="1540517264680" expanded="true" signature="1064:1693" ph="{...}" />
+            <marker date="1540517264680" expanded="true" signature="1167:1656" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Details.cshtml">
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.CoolWeb/Views/Orders/Details.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="69">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding>
-            <marker date="1540339708959" expanded="true" signature="51:90" ph="@..." />
-            <marker date="1540339708959" expanded="true" signature="110:1023" ph="&lt;div.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="150:1016" ph="&lt;dl.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="185:262" ph="&lt;dt.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="271:344" ph="&lt;dd.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="353:426" ph="&lt;dt.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="435:504" ph="&lt;dd.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="513:590" ph="&lt;dt.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="599:672" ph="&lt;dd.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="681:758" ph="&lt;dt.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="767:840" ph="&lt;dd.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="849:925" ph="&lt;dt.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="934:1006" ph="&lt;dd.../&gt;" />
-            <marker date="1540339708959" expanded="true" signature="1024:1140" ph="&lt;div.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="51:108" ph="@..." />
+            <marker date="1540517358385" expanded="true" signature="110:855" ph="&lt;div.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="150:848" ph="&lt;dl.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="185:262" ph="&lt;dt.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="271:344" ph="&lt;dd.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="353:426" ph="&lt;dt.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="435:504" ph="&lt;dd.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="513:590" ph="&lt;dt.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="599:672" ph="&lt;dd.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="681:757" ph="&lt;dt.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="766:838" ph="&lt;dd.../&gt;" />
+            <marker date="1540517358385" expanded="true" signature="856:911" ph="&lt;div.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Web/Views/OrdersView/Index.cshtml">
+    <entry file="file://$PROJECT_DIR$/CodeShopWarehouse.Test.Unit/Tests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+        <state relative-caret-position="207">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding>
-            <marker date="1540421386772" expanded="true" signature="64:101" ph="@..." />
-            <marker date="1540421386772" expanded="true" signature="119:169" ph="&lt;p.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="170:1491" ph="&lt;table.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="196:810" ph="&lt;thead.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="212:797" ph="&lt;tr.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="233:326" ph="&lt;th.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="343:432" ph="&lt;th.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="449:542" ph="&lt;th.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="559:652" ph="&lt;th.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="669:761" ph="&lt;th.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="815:1482" ph="&lt;tbody.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="823:1469" ph="@..." />
-            <marker date="1540421386772" expanded="true" signature="852:1469" ph="{...}" />
-            <marker date="1540421386772" expanded="true" signature="862:1467" ph="&lt;tr.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="879:963" ph="&lt;td.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="976:1056" ph="&lt;td.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="1069:1153" ph="&lt;td.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="1166:1250" ph="&lt;td.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="1263:1346" ph="&lt;td.../&gt;" />
-            <marker date="1540421386772" expanded="true" signature="1359:1453" ph="&lt;td.../&gt;" />
+            <marker date="1540517432025" expanded="false" signature="6:26" ph="..." />
+            <marker date="1540517432025" expanded="true" signature="65:468" ph="{...}" />
+            <marker date="1540517432025" expanded="true" signature="90:466" ph="{...}" />
+            <marker date="1540517432025" expanded="true" signature="172:205" ph="{...}" />
+            <marker date="1540517432025" expanded="true" signature="290:332" ph="{...}" />
+            <marker date="1540517432025" expanded="true" signature="418:460" ph="{...}" />
           </folding>
         </state>
       </provider>

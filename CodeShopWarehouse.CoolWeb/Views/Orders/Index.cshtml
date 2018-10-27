@@ -1,0 +1,49 @@
+@model IEnumerable<CodeShopWarehouse.Shared.Interfaces.IOrder>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Stock)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FilledAt)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilledAt)
+            </td>    
+            <td>
+                @Html.DisplayFor(modelItem => item.Stock)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderType)
+            </td>
+            <td>
+                @using (Html.BeginForm("FillOrder", "Orders", item.Id, FormMethod.Post))
+                {
+                    <input hidden value="@item.Id" name="id" />
+                    <button type="submit" disabled="@(item.FilledAt != null)">Proccess</button>  
+                }
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -8,7 +8,7 @@ namespace CodeShopWarehouse.Test.Unit
         [Fact]
         public void Unresolved_Fill_Order_Can_Be_Retrieved()
         {
-			Assert.True(true);
+            
         }
         
         [Fact]
