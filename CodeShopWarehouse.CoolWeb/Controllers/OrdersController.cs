@@ -31,6 +31,12 @@ namespace CodeShopWarehouse.CoolWeb.Controllers
             return View(order);
         }
 
+        public IActionResult ProductId(int id)
+        {
+            var orders = _ordersService.GetOrdersByProductId(id);
+            return View(orders);
+        }
+
         [HttpPost]
         public IActionResult FillOrder([FromForm] int id)
         {

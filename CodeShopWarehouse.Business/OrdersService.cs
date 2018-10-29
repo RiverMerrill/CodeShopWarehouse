@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using CodeShopWarehouse.Data;
 using CodeShopWarehouse.Data.Interfaces;
 using CodeShopWarehouse.Shared.Interfaces;
 
@@ -28,6 +29,10 @@ namespace CodeShopWarehouse.Business
         }
         public IOrder UpdateOrder(int id)
         {
+            if (GetOrderById(id).FilledAt != null)
+            {
+                throw new Exception("Order has already been filled.");
+            }
             return _ordersRepo.UpdateOrder(id);
         }
         public IEnumerable<IOrder> GetUnprocessedOrders()

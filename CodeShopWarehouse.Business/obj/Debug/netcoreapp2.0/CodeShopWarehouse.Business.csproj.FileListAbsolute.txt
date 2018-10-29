@@ -11,4 +11,4 @@ C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Business\obj\Debug\netcore
 C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Business\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Business.csproj.CopyComplete
 C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Business\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Business.dll
 C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Business\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Business.pdb
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Business\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Business.csprojResolveAssemblyReference.cache
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Business\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Business.csprojAssemblyReference.cache

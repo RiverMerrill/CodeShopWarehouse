@@ -6,4 +6,4 @@ C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Shared\obj\Debug\netcoreap
 C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Shared\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Shared.AssemblyInfo.cs
 C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Shared\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Shared.dll
 C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Shared\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Shared.pdb
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Shared\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Shared.csprojResolveAssemblyReference.cache
+C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Shared\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Shared.csprojAssemblyReference.cache

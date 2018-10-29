@@ -35,7 +35,7 @@ namespace CodeShopWarehouse.Data
             },
             new Order()
             {
-                ProductId = 30,
+                ProductId = 22,
                 CreatedAt = DateTimeOffset.Now,
                 Id = 4,
                 OrderType = OrderTypeEnum.Add,

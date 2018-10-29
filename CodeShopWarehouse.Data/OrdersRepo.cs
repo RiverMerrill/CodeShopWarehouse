@@ -36,17 +36,7 @@ namespace CodeShopWarehouse.Data
         }
         public IEnumerable<IOrder> GetOrdersByProductId(int id)
         {
-            List<Order> Orders = new List<Order>();
-            for (int i = 0; i < 20; i++)
-            {
-                var unprocessedOrder = new Order 
-                    { Id = i, ProductId = id, CreatedAt = DateTimeOffset.Now, OrderType = OrderTypeEnum.Add, Stock = i };
-                var processedOrder = new Order
-                    { Id = i, ProductId = id, CreatedAt = DateTimeOffset.Now, OrderType = OrderTypeEnum.Add, Stock = i, FilledAt = DateTimeOffset.Now};
-                Orders.Add(unprocessedOrder);
-                Orders.Add(processedOrder);
-            }
-            return Orders;
+            return FakeDb.Orders.Where(x => x.ProductId == id);
         }
     }
 }
