@@ -1,9 +1,0 @@
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Entities\bin\Debug\netcoreapp2.0\CodeShopWarehouse.Entities.deps.json
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Entities\bin\Debug\netcoreapp2.0\CodeShopWarehouse.Entities.dll
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Entities\bin\Debug\netcoreapp2.0\CodeShopWarehouse.Entities.pdb
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Entities\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Entities.csprojResolveAssemblyReference.cache
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Entities\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Entities.csproj.CoreCompileInputs.cache
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Entities\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Entities.AssemblyInfoInputs.cache
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Entities\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Entities.AssemblyInfo.cs
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Entities\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Entities.dll
-C:\source\bcw2018\CodeShopWarehouse\CodeShopWarehouse.Entities\obj\Debug\netcoreapp2.0\CodeShopWarehouse.Entities.pdb
